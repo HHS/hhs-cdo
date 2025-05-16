@@ -4,7 +4,7 @@ Tools and templates for crowdsourcing agendas for community meetings for the HHS
 ## About the Project
 This project serves as a tool for crowdsourcing agendas for community meetings using basic features of a github repository such as markdown files, and issue templates.
 
-## Suggest an Agenda Topic
+## Suggesting an Agenda Topic
 Agenda topics can be suggested by filing a new issue on our repository here:
 https://github.com/HHS/hhs-cdo/issues/new?template=agenda_request.md
 

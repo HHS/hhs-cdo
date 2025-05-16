@@ -1,5 +1,5 @@
-# agenda-scaffolder
-Tools and templates for crowdsourcing agendas for community meetings.
+# HHS-CDO DGB Agenda Template
+Tools and templates for crowdsourcing agendas for community meetings for the HHS Data Governance Board.
 
 ## About the Project
 This project serves as a tool for crowdsourcing agendas for community meetings using basic features of a github repository such as markdown files, and issue templates.

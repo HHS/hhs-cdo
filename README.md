@@ -8,7 +8,7 @@ This project serves as a tool for crowdsourcing agendas for community meetings u
 Agenda topics can be suggested by filing a new issue on our repository here:
 https://github.com/HHS/hhs-cdo/issues/new?template=agenda_request.md
 
-If the agenda topic is sensitive in nature, you can alternatively [email the DGB directly](mailto:cdo@hhs.gov).
+If the agenda topic is sensitive in nature, you can alternatively [email the DGB directly](mailto:dgb@hhs.gov).
 
 ## Publishing an Agenda
 - Copy the [hhs-ocdo-dgb-template.md](hhs_ocdo_dgb_template.md).

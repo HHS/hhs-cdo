@@ -1,8 +1,8 @@
 ---
-name: Agenda Update Request
+name: Agenda Topic Request
 about: Request updates to AGENDA
-title: '[AGENDA]: '
-labels: ['agenda-update']
+title: '[AGENDA-MMDDYYY]: AGENDA_TOPIC - SPEAKER_NAME'
+labels: ['agenda-topic']
 assignees: ''
 ---
 Please add the following information below.

@@ -4,6 +4,20 @@ Tools and templates for crowdsourcing agendas for community meetings for the HHS
 ## About the Project
 This project serves as a tool for crowdsourcing agendas for community meetings using basic features of a github repository such as markdown files, and issue templates.
 
+## Suggest an Agenda Topic
+Agenda topics can be suggested by filing a new issue on our repository here:
+https://github.com/HHS/hhs-cdo/issues/new?template=agenda_request.md
+
+If the agenda topic is sensitive in nature, you can alternatively [email the DGB directly](mailto:cdo@hhs.gov).
+
+## Publishing an Agenda
+- Copy the [hhs-ocdo-dgb-template.md](hhs_ocdo_dgb_template.md).
+- Copy and past the topics from the [open issues](https://github.com/HHS/hhs-cdo/issues) into the Agenda.
+- Close the issues that are added to the agenda.
+- Save a copy of the agenda template with the filename+date `hhs-ocdo-dgb-MMDDYYY.md`.
+- Commit and publish to the repository.
+
+
 
 ## Feedback
 If you have ideas for how we can improve or add to our capacity building efforts and methods, please let us know by filing an [issue on our GitHub repository](https://github.com/hhs/hhs-cdo/issues/new).
@@ -19,7 +33,7 @@ Information about terminology and acronyms used in this documentation may be fou
 
 We adhere to the [HHS Open Source
 Policy](https://www.hhs.gov/sites/default/files/hhs-open-gov-plan-v4-2016.pdf). If you have any
-questions, just [shoot us an email](mailto:cdo@hhs.gov).
+questions, just [send us an email](mailto:cdo@hhs.gov).
 
 ### Security and Responsible Disclosure Policy
 

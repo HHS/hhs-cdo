@@ -14,7 +14,7 @@ If the agenda topic is sensitive in nature, you can alternatively [email the DGB
 - Copy the [hhs-ocdo-dgb-template.md](hhs_ocdo_dgb_template.md).
 - Copy and past the topics from the [open issues](https://github.com/HHS/hhs-cdo/issues) into the Agenda.
 - Close the issues that are added to the agenda.
-- Save a copy of the agenda template with the filename+date `hhs-ocdo-dgb-MMDDYYY.md`.
+- Save a copy of the agenda template with the filename+date `hhs-ocdo-dgb-YYYYMMDD.md`.
 - Commit and publish to the repository.
 
 

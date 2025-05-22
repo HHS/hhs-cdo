@@ -2,7 +2,7 @@
 Tools and templates for crowdsourcing agendas for community meetings for the HHS Data Governance Board.
 
 ## About the Project
-This project serves as a tool for crowdsourcing agendas for community meetings using basic features of a github repository such as markdown files, and issue templates.
+This project serves as a tool for crowdsourcing agendas for community meetings using basic features of a github repository such as markdown files and issue templates.
 
 ## Suggesting an Agenda Topic
 Agenda topics can be suggested by filing a new issue on our repository here:
@@ -12,7 +12,7 @@ If the agenda topic is sensitive in nature, you can alternatively [email the DGB
 
 ## Publishing an Agenda
 - Copy the [hhs-ocdo-dgb-template.md](hhs_ocdo_dgb_template.md).
-- Copy and past the topics from the [open issues](https://github.com/HHS/hhs-cdo/issues) into the Agenda.
+- Copy and paste the topics from the [open issues](https://github.com/HHS/hhs-cdo/issues) into the Agenda.
 - Close the issues that are added to the agenda.
 - Save a copy of the agenda template with the filename+date `hhs-ocdo-dgb-YYYYMMDD.md`.
 - Commit and publish to the repository.

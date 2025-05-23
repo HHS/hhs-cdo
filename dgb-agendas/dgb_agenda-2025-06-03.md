@@ -42,5 +42,5 @@
 ---
 <div style="float:left;">*Invited, not confirmed</div>
 <div style="float:left;">**Data-Driven Case Studies to be broadly scoped, so that every HHS Division can play a role and move the needle.  Align incentives, so data sharing positively reinforced with business incentives and HHS budgets rewarding data stewards and contributing offices (e.g., DOE GDR example)</div>
-
- <p align="center">This document may contain information that is PRE-DECISIONAL, PROTECTED, PRIVILEGED, and/or CONFIDENTIAL and should not be disseminated to unauthorized persons</p>
+<br>
+<p align="center">This document may contain information that is PRE-DECISIONAL, PROTECTED, PRIVILEGED, and/or CONFIDENTIAL and should not be disseminated to unauthorized persons</p>

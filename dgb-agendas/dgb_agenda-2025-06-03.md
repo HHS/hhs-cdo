@@ -16,17 +16,17 @@
 ## Updates (10:10 - 10:25)
 - HHS Statistical Officer Update | Brian Moyer, HHS Chief Statistical Officer
 - HHS Chief Data Officer Update | Kristen Honey, HHS Chief Data Officer, OCDO/ASTP
- - HHS Metadata Standard
- - HHS Data Inventory
- - Eliminating Information Silos with “Sharing by Default”
- - Intra-HHS Data Sharing: Whole Health AHA Enterprise Platform and eliminating Information Silos
+  - HHS Metadata Standard
+  - HHS Data Inventory
+  - Eliminating Information Silos with “Sharing by Default”
+  - Intra-HHS Data Sharing: Whole Health AHA Enterprise Platform and eliminating Information Silos
 
 ## Data-Driven Use Cases for Impact**
 1. Intra-HHS Data Sharing and Real-World Data Platform
- - Chronic Conditions
-  - Autism
-  - Infection-Associated Chronic Conditions
-  - Opioid Crisis
+   - Chronic Conditions
+     - Autism
+     - Infection-Associated Chronic Conditions
+     - Opioid Crisis
 3. Biosecurity -- Public Health Emergencies
 4. Healthdata.gov “We the People” and TOPx Tech Sprints
 

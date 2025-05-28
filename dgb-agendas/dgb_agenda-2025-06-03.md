@@ -34,9 +34,9 @@
 - Clark Minor*, HHS CTO, IOS and HHS CIO/OCIO/ASA
 - Peter Bowman-Davis*, HHS Chief AI Officer, IOS 
 
-## HHS Data Leaders and DGB Members Discussion Topics (TBD)
+## HHS Data Leaders and DGB Members Open Discussion Topics & Kudos (TBD)
 
-## Final Thoughts, Action Items, & Kudos (10:50 - 11:00)
+## Final Thoughts & Action Items (10:50 - 11:00)
 - Kristen Honey, ASTP
 
 ---

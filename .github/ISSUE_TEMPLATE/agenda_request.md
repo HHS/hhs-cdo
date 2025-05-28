@@ -12,5 +12,5 @@ Please add the following information below.
 - Submitter Name
 - Submitter OpDiv/StaffDiv?
 - DGB Voting Member (Y/N)?
-- Suggested agenda topic? (e.g. key initiatives, OpDiv/Staff updates, new technologies you are interested in, etc. )
+- Suggested agenda topic? (e.g. key initiatives, OpDiv/Staff updates, Kudos/Shoutouts, new technologies you are interested in, etc. )
 - If suggesting a speaker, provide contact information (if available)

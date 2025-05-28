@@ -19,7 +19,7 @@
   - HHS Metadata Standard
   - HHS Data Inventory
   - Eliminating Information Silos with “Sharing by Default”
-  - Intra-HHS Data Sharing: Whole Health AHA Enterprise Platform and eliminating Information Silos
+  - Intra-HHS Data Sharing: Whole Health AHA Enterprise Platform
 
 ## Data-Driven Use Cases for Impact**
 1. Intra-HHS Data Sharing and Real-World Data Platform

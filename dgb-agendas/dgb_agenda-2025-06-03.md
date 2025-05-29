@@ -22,7 +22,7 @@
   - Eliminating Information Silos with “Sharing by Default”
   - Intra-HHS Data Sharing: Whole Health AHA Enterprise Platform
 
-## Data-Driven Use Cases for Impact** (10:20 - 10:25)
+## Data-Driven Use Cases for Impact* (10:20 - 10:25)
 1. Intra-HHS Data Sharing and Real-World Data Platform
    - Chronic Conditions
      - Autism
@@ -44,6 +44,6 @@
 - Kristen Honey, HHS Chief Data Officer, OCDO/ASTP
 
 ---
-<div style="float:left;">**Data-Driven Case Studies to be broadly scoped, so that every HHS Division can play a role and move the needle.  Align incentives, so data sharing positively reinforced with business incentives and HHS budgets rewarding data stewards and contributing offices (e.g., DOE GDR example)</div>
+<div style="float:left;">*Data-Driven Case Studies to be broadly scoped, so that every HHS Division can play a role and move the needle.  Align incentives, so data sharing positively reinforced with business incentives and HHS budgets rewarding data stewards and contributing offices (e.g., DOE GDR example)</div>
 <br>
 <p align="center">Iterative, pre-decisional, privileged information</p>

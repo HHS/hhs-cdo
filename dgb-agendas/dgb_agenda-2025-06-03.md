@@ -10,8 +10,8 @@
 # Agenda
 ## Welcome (10:00 - 10:10)
 - Kristen Honey, HHS CDO, ASTP
-- Clark Minor*, HHS CTO, IOS and HHS CIO/OCIO/ASA
-- Peter Bowman-Davis*, HHS Chief AI Officer, IOS
+- Clark Minor, HHS CTO, IOS and HHS CIO/OCIO/ASA
+- Peter Bowman-Davis, HHS Chief AI Officer, IOS
 
 ## Updates (10:10 - 10:25)
 - HHS Statistical Officer Update | Brian Moyer, HHS Chief Statistical Officer
@@ -31,8 +31,8 @@
 4. Healthdata.gov “We the People” and TOPx Tech Sprints
 
 ## Invited Speakers -- First 100 Day Wins and HHS Vision with Data, AI, and Emerging Technologies (TBD)
-- Clark Minor*, HHS CTO, IOS and HHS CIO/OCIO/ASA
-- Peter Bowman-Davis*, HHS Chief AI Officer, IOS 
+- Clark Minor, HHS CTO, IOS and HHS CIO/OCIO/ASA
+- Peter Bowman-Davis, HHS Chief AI Officer, IOS 
 
 ## HHS Data Leaders and DGB Members Open Discussion Topics & Kudos (TBD)
 
@@ -40,7 +40,6 @@
 - Kristen Honey, ASTP
 
 ---
-<div style="float:left;">*Invited, not confirmed</div>
 <div style="float:left;">**Data-Driven Case Studies to be broadly scoped, so that every HHS Division can play a role and move the needle.  Align incentives, so data sharing positively reinforced with business incentives and HHS budgets rewarding data stewards and contributing offices (e.g., DOE GDR example)</div>
 <br>
 <p align="center">Iterative, pre-decisional, privileged information</p>

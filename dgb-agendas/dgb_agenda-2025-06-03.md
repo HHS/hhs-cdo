@@ -31,14 +31,17 @@
 3. Biosecurity -- Public Health Emergencies
 4. Healthdata.gov “We the People” and TOPx Tech Sprints
 
-## Invited Speakers -- First 100 Day Wins and HHS Vision with Data, AI, and Emerging Technologies (TBD)
+## GitHub Demo with Open Source Agenda (10:25 to 10:30)
+- Alec Blase, Data Analyst, OCDO/ASTP
+
+## Invited Speakers -- HHS Technology Leadership for Data, AI and Emerging Trends (TBD)
 - Clark Minor, HHS CTO, IOS and HHS CIO/OCIO/ASA
 - Peter Bowman-Davis, HHS Chief AI Officer, IOS 
 
 ## HHS Data Leaders and DGB Members Open Discussion Topics & Kudos (TBD)
 
 ## Final Thoughts & Action Items (10:50 - 11:00)
-- Kristen Honey, ASTP
+- Kristen Honey, HHS Chief Data Officer, OCDO/ASTP
 
 ---
 <div style="float:left;">**Data-Driven Case Studies to be broadly scoped, so that every HHS Division can play a role and move the needle.  Align incentives, so data sharing positively reinforced with business incentives and HHS budgets rewarding data stewards and contributing offices (e.g., DOE GDR example)</div>

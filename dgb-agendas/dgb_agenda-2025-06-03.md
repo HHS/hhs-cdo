@@ -13,7 +13,7 @@
 - Clark Minor, HHS CTO, IOS and HHS CIO/OCIO/ASA
 - Peter Bowman-Davis, HHS Chief AI Officer, IOS
 
-## Updates (10:10 - 10:25)
+## Updates (10:10 - 10:20)
 - HHS Statistical Official Update | Brian Moyer, HHS Chief Statistical Official
 - HHS Evaluation Officer Update | Danielle Berman, Director, Division of Family & Community Policy
 - HHS Chief Data Officer Update | Kristen Honey, HHS Chief Data Officer, OCDO/ASTP
@@ -22,7 +22,7 @@
   - Eliminating Information Silos with “Sharing by Default”
   - Intra-HHS Data Sharing: Whole Health AHA Enterprise Platform
 
-## Data-Driven Use Cases for Impact**
+## Data-Driven Use Cases for Impact** (10:20 - 10:25)
 1. Intra-HHS Data Sharing and Real-World Data Platform
    - Chronic Conditions
      - Autism

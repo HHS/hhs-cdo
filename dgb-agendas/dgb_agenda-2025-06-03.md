@@ -8,12 +8,12 @@
 ## <em><p align="center">People First, Data Always</p></em>
 
 # Agenda
-## Welcome (10:00 - 10:10)
+## Welcome (10:00 - 10:05)
 - Kristen Honey, HHS CDO, ASTP
 - Clark Minor, HHS CTO, IOS and HHS CIO/OCIO/ASA
 - Peter Bowman-Davis, HHS Chief AI Officer, IOS
 
-## Updates (10:10 - 10:20)
+## Updates (10:05 - 10:20)
 - HHS Statistical Official Update | Brian Moyer, HHS Chief Statistical Official
 - HHS Evaluation Officer Update | Danielle Berman, Director, Division of Family & Community Policy
 - HHS Chief Data Officer Update | Kristen Honey, HHS Chief Data Officer, OCDO/ASTP
@@ -21,15 +21,21 @@
   - HHS Data Inventory
   - Eliminating Information Silos with “Sharing by Default”
   - Intra-HHS Data Sharing: Whole Health AHA Enterprise Platform
+  - **NEW!** HHS Open Data Plan due to OMB by July 15 – volunteers wanted 
 
 ## Data-Driven Use Cases for Impact* (10:20 - 10:25)
-1. Intra-HHS Data Sharing and Real-World Data Platform
-   - Chronic Conditions
-     - Autism
-     - Infection-Associated Chronic Conditions
-     - Opioid Crisis
-3. Biosecurity -- Public Health Emergencies
-4. Healthdata.gov “We the People” and [TOPx Tech Sprints](https://opportunity.census.gov/)
+1. Intra-HHS Data Sharing
+2. Healthdata.gov “We the People” and [TOPx Tech Sprints](https://opportunity.census.gov/)
+3. Data-Driven Problem Solving
+   - Autism
+   - Biosecurity -- Public Health Emergencies
+   - Chronic Disease Crisis
+   - Children's Health
+   - Geospatial Data
+   - Infection-Associated Chronic Conditions
+   - Maternal Health
+   - Opioid Crisis
+   - Tribal Data
 
 ## GitHub Demo with Open Source Agenda (10:25 to 10:30)
 - Alec Blase, Data Analyst, OCDO/ASTP

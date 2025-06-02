@@ -29,7 +29,7 @@
      - Infection-Associated Chronic Conditions
      - Opioid Crisis
 3. Biosecurity -- Public Health Emergencies
-4. Healthdata.gov “We the People” and TOPx Tech Sprints
+4. Healthdata.gov “We the People” and [TOPx Tech Sprints](https://opportunity.census.gov/)
 
 ## GitHub Demo with Open Source Agenda (10:25 to 10:30)
 - Alec Blase, Data Analyst, OCDO/ASTP

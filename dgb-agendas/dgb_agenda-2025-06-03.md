@@ -40,11 +40,11 @@
 ## GitHub Demo for Open Co-Creation (10:25 to 10:30)
 - Alec Blase, Data Analyst, OCDO/ASTP
 
-## Invited Speakers -- HHS Technology Leadership for Data, AI and Emerging Trends (TBD)
+## Invited Speakers -- HHS Technology Leadership's Vision for Data, AI and Emerging Trends (10:30 to 10:50)
 - Clark Minor, HHS CTO, IOS and HHS CIO/OCIO/ASA
 - Peter Bowman-Davis, HHS Chief AI Officer, IOS 
 
-## HHS Data Leaders and DGB Members Open Discussion Topics & Kudos (TBD)
+## HHS Data Leaders and DGB Members Open Discussion Topics & Kudos (10:50)
 
 ## Final Thoughts & Action Items (10:50 - 11:00)
 - Kristen Honey, HHS Chief Data Officer, OCDO/ASTP

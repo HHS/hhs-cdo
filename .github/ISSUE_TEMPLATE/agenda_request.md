@@ -7,7 +7,7 @@ assignees: alecblase, cemp18
 
 ---
 
-Please add the following information below.
+Please add the following information below. Don't forget to edit the title to include today's date, as well as the suggested agenda topic and/or speaker. 
 
 - Submitter Name?
   - 
@@ -18,4 +18,4 @@ Please add the following information below.
 - Suggested agenda topic? (e.g. key initiatives, OpDiv/Staff updates, Kudos/Shoutouts, new technologies you are interested in, etc. )
   - 
 - If suggesting a speaker, provide contact information (if available)
-  - 
+  -

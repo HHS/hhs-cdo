@@ -37,7 +37,7 @@
    - Opioid Crisis
    - Tribal Data
 
-## GitHub Demo with Open Source Agenda (10:25 to 10:30)
+## GitHub Demo for Open Co-Creation (10:25 to 10:30)
 - Alec Blase, Data Analyst, OCDO/ASTP
 
 ## Invited Speakers -- HHS Technology Leadership for Data, AI and Emerging Trends (TBD)

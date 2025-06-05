@@ -38,7 +38,7 @@
    - Tribal Data
 
 ## GitHub Demo for Open Co-Creation (10:25 to 10:30)
-- Alec Blase, Data Analyst, OCDO/ASTP
+- Alec Blase, Data Analyst, OCDO
 
 ## Invited Speakers -- HHS Technology Leadership's Vision for Data, AI and Emerging Trends (10:30 to 10:50)
 - Clark Minor, HHS CTO, IOS and HHS CIO/OCIO/ASA
@@ -47,7 +47,7 @@
 ## HHS Data Leaders and DGB Members Open Discussion Topics & Kudos (10:50)
 
 ## Final Thoughts & Action Items (10:50 - 11:00)
-- Kristen Honey, HHS Chief Data Officer, OCDO/ASTP
+- Kristen Honey, HHS Chief Data Officer, OCDO
 
 ---
 <div style="float:left;">*Data-Driven Case Studies to be broadly scoped, so that every HHS Division can play a role and move the needle.  Align incentives, so data sharing positively reinforced with business incentives and HHS budgets rewarding data stewards and contributing offices (e.g., DOE GDR example)</div>

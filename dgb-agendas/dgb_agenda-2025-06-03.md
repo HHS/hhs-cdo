@@ -16,7 +16,7 @@
 ## Updates (10:05 - 10:20)
 - HHS Statistical Official Update | Brian Moyer, HHS Chief Statistical Official
 - HHS Evaluation Officer Update | Danielle Berman, Director, Division of Family & Community Policy
-- HHS Chief Data Officer Update | Kristen Honey, HHS Chief Data Officer, OCDO/ASTP
+- HHS Chief Data Officer Update | Kristen Honey, HHS Chief Data Officer, OCDO
   - HHS Metadata Standard
   - HHS Data Inventory
   - Eliminating Information Silos with “Sharing by Default”

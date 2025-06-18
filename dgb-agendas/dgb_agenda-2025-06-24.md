@@ -40,7 +40,7 @@
 - Alec Blase, Data Analyst, OCDO
 
 ## Final Thoughts, Action Items, & Kudos (10:55 - 11:00)
-- Kristen Honey, ASTP
+- Kristen Honey, HHS CDO
 
 ---
 <p align="center">Iterative, pre-decisional, privileged information</p>

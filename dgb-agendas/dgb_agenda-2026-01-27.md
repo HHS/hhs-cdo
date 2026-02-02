@@ -1,4 +1,4 @@
-<img align="right" height="10%" width="10%" src="https://cdo.hhs.gov/resource/1632510840000/footerLogo">
+<img align="right" height="10%" width="18%" src="/../main/hhs_data_logo.png">
 
 ---
 
